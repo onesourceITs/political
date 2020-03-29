@@ -3,7 +3,7 @@
 }
 
 .bg-flag-red {
-    background-color:#B22234 !important;
+    background-color: #B22234 !important;
     color: #ffffff !important;
 }
 
@@ -12,6 +12,58 @@
     color: #ffffff !important;
 }
 
-.text-muted, .h2-dark{
-    color:#765c48 !important;
+header h1,
+header p {
+    text-shadow: -1px 1px 2px #3C3B6E,
+        1px 1px 2px #3C3B6E,
+        1px 1px 0 #3C3B6E,
+        -1px -1px 0 #3C3B6E;
+}
+
+.text-secondary {
+    color: #3C3B6E !important;
+}
+
+.text-muted,
+.h2-dark {
+    color: #765c48 !important;
+}
+
+.divider-light .divider-custom-line {
+    background-color: #3C3B6E !important;
+}
+
+.divider-custom-icon {
+    color: #3C3B6E !important;
+}
+
+.bg-coin-silver {
+    background-color: #C0C0C0 !important;
+}
+
+.footer {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #B22234 !important;
+    color: #fff;
+}
+
+.btn-flag-blue {
+    color: #fff;
+    background-color: #3C3B6E !important;
+    border-color: #3C3B6E !important;
+}
+
+.btn-flag-blue-oppo {
+    background-color: #fff;
+    color: #3C3B6E !important;
+    border-color: #3C3B6E !important;
+}
+
+button {
+    cursor: pointer;
+}
+
+.copyright {
+    background-color: #B22234 !important;
 }
